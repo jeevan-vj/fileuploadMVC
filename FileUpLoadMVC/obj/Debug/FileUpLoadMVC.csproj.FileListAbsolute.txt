@@ -1,0 +1,66 @@
+c:\users\jeevan\documents\visual studio 2015\Projects\FileUpLoadMVC\FileUpLoadMVC\bin\roslyn\csc.exe
+c:\users\jeevan\documents\visual studio 2015\Projects\FileUpLoadMVC\FileUpLoadMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\jeevan\documents\visual studio 2015\Projects\FileUpLoadMVC\FileUpLoadMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\jeevan\documents\visual studio 2015\Projects\FileUpLoadMVC\FileUpLoadMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\jeevan\documents\visual studio 2015\Projects\FileUpLoadMVC\FileUpLoadMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\jeevan\documents\visual studio 2015\Projects\FileUpLoadMVC\FileUpLoadMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\jeevan\documents\visual studio 2015\Projects\FileUpLoadMVC\FileUpLoadMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\jeevan\documents\visual studio 2015\Projects\FileUpLoadMVC\FileUpLoadMVC\bin\roslyn\System.Collections.Immutable.dll
+c:\users\jeevan\documents\visual studio 2015\Projects\FileUpLoadMVC\FileUpLoadMVC\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\jeevan\documents\visual studio 2015\Projects\FileUpLoadMVC\FileUpLoadMVC\bin\roslyn\vbc.exe
+c:\users\jeevan\documents\visual studio 2015\Projects\FileUpLoadMVC\FileUpLoadMVC\bin\roslyn\VBCSCompiler.exe
+c:\users\jeevan\documents\visual studio 2015\Projects\FileUpLoadMVC\FileUpLoadMVC\bin\roslyn\VBCSCompiler.exe.config
+c:\users\jeevan\documents\visual studio 2015\Projects\FileUpLoadMVC\FileUpLoadMVC\bin\FileUpLoadMVC.dll.config
+c:\users\jeevan\documents\visual studio 2015\Projects\FileUpLoadMVC\FileUpLoadMVC\bin\FileUpLoadMVC.dll
+c:\users\jeevan\documents\visual studio 2015\Projects\FileUpLoadMVC\FileUpLoadMVC\bin\FileUpLoadMVC.pdb
+c:\users\jeevan\documents\visual studio 2015\Projects\FileUpLoadMVC\FileUpLoadMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\jeevan\documents\visual studio 2015\Projects\FileUpLoadMVC\FileUpLoadMVC\bin\Microsoft.Web.Infrastructure.dll
+c:\users\jeevan\documents\visual studio 2015\Projects\FileUpLoadMVC\FileUpLoadMVC\bin\System.Web.Helpers.dll
+c:\users\jeevan\documents\visual studio 2015\Projects\FileUpLoadMVC\FileUpLoadMVC\bin\System.Web.Mvc.dll
+c:\users\jeevan\documents\visual studio 2015\Projects\FileUpLoadMVC\FileUpLoadMVC\bin\System.Web.Razor.dll
+c:\users\jeevan\documents\visual studio 2015\Projects\FileUpLoadMVC\FileUpLoadMVC\bin\System.Web.Webpages.Deployment.dll
+c:\users\jeevan\documents\visual studio 2015\Projects\FileUpLoadMVC\FileUpLoadMVC\bin\System.Web.Webpages.dll
+c:\users\jeevan\documents\visual studio 2015\Projects\FileUpLoadMVC\FileUpLoadMVC\bin\System.Web.Webpages.Razor.dll
+c:\users\jeevan\documents\visual studio 2015\Projects\FileUpLoadMVC\FileUpLoadMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\jeevan\documents\visual studio 2015\Projects\FileUpLoadMVC\FileUpLoadMVC\bin\System.Web.Razor.xml
+c:\users\jeevan\documents\visual studio 2015\Projects\FileUpLoadMVC\FileUpLoadMVC\bin\System.Web.Webpages.xml
+c:\users\jeevan\documents\visual studio 2015\Projects\FileUpLoadMVC\FileUpLoadMVC\bin\System.Web.Webpages.Deployment.xml
+c:\users\jeevan\documents\visual studio 2015\Projects\FileUpLoadMVC\FileUpLoadMVC\bin\System.Web.Webpages.Razor.xml
+c:\users\jeevan\documents\visual studio 2015\Projects\FileUpLoadMVC\FileUpLoadMVC\bin\System.Web.Helpers.xml
+c:\users\jeevan\documents\visual studio 2015\Projects\FileUpLoadMVC\FileUpLoadMVC\bin\System.Web.Mvc.xml
+c:\users\jeevan\documents\visual studio 2015\Projects\FileUpLoadMVC\FileUpLoadMVC\obj\Debug\FileUpLoadMVC.csprojResolveAssemblyReference.cache
+c:\users\jeevan\documents\visual studio 2015\Projects\FileUpLoadMVC\FileUpLoadMVC\obj\Debug\FileUpLoadMVC.dll
+c:\users\jeevan\documents\visual studio 2015\Projects\FileUpLoadMVC\FileUpLoadMVC\obj\Debug\FileUpLoadMVC.pdb
+C:\jeevan\my\projects\FileUpLoadMVC\FileUpLoadMVC\bin\roslyn\csc.exe
+C:\jeevan\my\projects\FileUpLoadMVC\FileUpLoadMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\jeevan\my\projects\FileUpLoadMVC\FileUpLoadMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\jeevan\my\projects\FileUpLoadMVC\FileUpLoadMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\jeevan\my\projects\FileUpLoadMVC\FileUpLoadMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\jeevan\my\projects\FileUpLoadMVC\FileUpLoadMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\jeevan\my\projects\FileUpLoadMVC\FileUpLoadMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\jeevan\my\projects\FileUpLoadMVC\FileUpLoadMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\jeevan\my\projects\FileUpLoadMVC\FileUpLoadMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\jeevan\my\projects\FileUpLoadMVC\FileUpLoadMVC\bin\roslyn\vbc.exe
+C:\jeevan\my\projects\FileUpLoadMVC\FileUpLoadMVC\bin\roslyn\VBCSCompiler.exe
+C:\jeevan\my\projects\FileUpLoadMVC\FileUpLoadMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\jeevan\my\projects\FileUpLoadMVC\FileUpLoadMVC\bin\FileUpLoadMVC.dll.config
+C:\jeevan\my\projects\FileUpLoadMVC\FileUpLoadMVC\bin\FileUpLoadMVC.dll
+C:\jeevan\my\projects\FileUpLoadMVC\FileUpLoadMVC\bin\FileUpLoadMVC.pdb
+C:\jeevan\my\projects\FileUpLoadMVC\FileUpLoadMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\jeevan\my\projects\FileUpLoadMVC\FileUpLoadMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\jeevan\my\projects\FileUpLoadMVC\FileUpLoadMVC\bin\System.Web.Helpers.dll
+C:\jeevan\my\projects\FileUpLoadMVC\FileUpLoadMVC\bin\System.Web.Mvc.dll
+C:\jeevan\my\projects\FileUpLoadMVC\FileUpLoadMVC\bin\System.Web.Razor.dll
+C:\jeevan\my\projects\FileUpLoadMVC\FileUpLoadMVC\bin\System.Web.Webpages.Deployment.dll
+C:\jeevan\my\projects\FileUpLoadMVC\FileUpLoadMVC\bin\System.Web.Webpages.dll
+C:\jeevan\my\projects\FileUpLoadMVC\FileUpLoadMVC\bin\System.Web.Webpages.Razor.dll
+C:\jeevan\my\projects\FileUpLoadMVC\FileUpLoadMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\jeevan\my\projects\FileUpLoadMVC\FileUpLoadMVC\bin\System.Web.Razor.xml
+C:\jeevan\my\projects\FileUpLoadMVC\FileUpLoadMVC\bin\System.Web.Webpages.xml
+C:\jeevan\my\projects\FileUpLoadMVC\FileUpLoadMVC\bin\System.Web.Webpages.Deployment.xml
+C:\jeevan\my\projects\FileUpLoadMVC\FileUpLoadMVC\bin\System.Web.Webpages.Razor.xml
+C:\jeevan\my\projects\FileUpLoadMVC\FileUpLoadMVC\bin\System.Web.Helpers.xml
+C:\jeevan\my\projects\FileUpLoadMVC\FileUpLoadMVC\bin\System.Web.Mvc.xml
+C:\jeevan\my\projects\FileUpLoadMVC\FileUpLoadMVC\obj\Debug\FileUpLoadMVC.csprojResolveAssemblyReference.cache
+C:\jeevan\my\projects\FileUpLoadMVC\FileUpLoadMVC\obj\Debug\FileUpLoadMVC.dll
+C:\jeevan\my\projects\FileUpLoadMVC\FileUpLoadMVC\obj\Debug\FileUpLoadMVC.pdb

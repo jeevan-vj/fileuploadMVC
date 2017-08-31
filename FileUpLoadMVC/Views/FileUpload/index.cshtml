@@ -1,0 +1,45 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>index</title>
+    <link href="~/Content/style.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="upload">
+        <div>  
+            <form id="upload" method="post" action="/FileUpload/UploadFiles" enctype="multipart/form-data">
+
+                <div id="drop">
+                    <a>Upload File</a>
+                    <input type="file" name="upl" multiple id="fileuploader" />
+                </div>
+
+                <ul>
+                    <!-- The file uploads will be shown here -->
+                </ul>
+
+            </form>
+            <script src="~/Scripts/jquery-3.1.0.min.js"></script>
+            <!-- JavaScript Includes -->
+            <script src="~/Scripts/jquery.knob.js"></script>
+            <!-- JavaScript Includes -->
+            <!-- jQuery File Upload Dependencies -->
+            <script src="~/Scripts/jquery.ui.widget.js"></script>
+            <script src="~/Scripts/jquery.iframe-transport.js"></script>
+            <script src="~/Scripts/jquery.fileupload.js"></script>
+            <!-- jQuery File Upload Dependencies -->
+            <!-- Main JavaScript file -->
+            <script src="~/Scripts/script.js"></script>
+            <!-- Main JavaScript file -->
+
+        </div>
+    </div>
+</body>
+</html>
